@@ -12,6 +12,9 @@ To solve the problem we reduce the speed for the fastest motor, to find the righ
 motorSpeedForFastMotor(M1) = (wantedSpeed * offset(1 | 100%)) * dir (1 or -1)
 motorSpeedForSlowMotor(M2) = (wantedSpeed * offset(0,93 | 93%)) * dir (1 or -1)
 ```
+###mBot ###
+
+![mBot](/Images/mBot.jpg)
 
 ###[Demonstration video](https://youtu.be/81xt4j0n6z4)###
 
